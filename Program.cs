@@ -1,7 +1,7 @@
 ﻿//Chris Martinez
-//10/13/22
-//Asking Question 
-//re created the program from the original one, this time around I added a boolean. The program kicks you out, when you wish to not play no more., and it also allows you to replay when you choose yes., a step up from the original program i had. 
+//10/18/22
+//Asking Question - Revamp
+//I re-created the program from the original one, this time around I added a boolean. The program kicks you out, when you wish to not play no more., and it also allows you to replay when you choose yes., a step up from the original program i had. 
 
 
 // Console.Clear();
@@ -30,7 +30,7 @@ while(playing)
         {
             Console.WriteLine("What time did you wake up today?,  " + MyName + "!");
             no = Console.ReadLine();
-            Console.WriteLine($"{MyName}you woke up at {no}");
+            Console.WriteLine($"{MyName} you woke up at {no}");
         }
             Console.WriteLine("would you like to play again? type in yes or no");
             no = Console.ReadLine();
