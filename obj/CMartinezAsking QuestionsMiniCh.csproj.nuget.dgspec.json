@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezAsking QuestionsMiniCh/CMartinezAsking QuestionsMiniCh.csproj": {}
+    "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezAskingQ#3/CMartinezAsking QuestionsMiniCh.csproj": {}
   },
   "projects": {
-    "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezAsking QuestionsMiniCh/CMartinezAsking QuestionsMiniCh.csproj": {
+    "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezAskingQ#3/CMartinezAsking QuestionsMiniCh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezAsking QuestionsMiniCh/CMartinezAsking QuestionsMiniCh.csproj",
+        "projectUniqueName": "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezAskingQ#3/CMartinezAsking QuestionsMiniCh.csproj",
         "projectName": "CMartinezAsking QuestionsMiniCh",
-        "projectPath": "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezAsking QuestionsMiniCh/CMartinezAsking QuestionsMiniCh.csproj",
+        "projectPath": "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezAskingQ#3/CMartinezAsking QuestionsMiniCh.csproj",
         "packagesPath": "/Users/chrismartinez/.nuget/packages/",
-        "outputPath": "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezAsking QuestionsMiniCh/obj/",
+        "outputPath": "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUBALLCHALLENGES/CMartinezAskingQ#3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chrismartinez/.nuget/NuGet/NuGet.Config"
